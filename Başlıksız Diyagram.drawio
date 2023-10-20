@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T23:52:36.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="bdJTon3BJp-RRZGTAB6E" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T00:21:43.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="KVBbgrZmkMb9QxHvLkkn" version="22.0.5" type="github">
   <diagram name="Sayfa -1" id="2scrsWllX00TXKacc9_Q">
     <mxGraphModel dx="2181" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -266,7 +266,7 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ovRNnigAhlrinp-TAwd-1" value="ProductsFeaturesValues" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="400" width="560" height="320" as="geometry" />
+          <mxGeometry x="-610" y="400" width="430" height="160" as="geometry" />
         </mxCell>
         <mxCell id="9ovRNnigAhlrinp-TAwd-2" value="ID" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ovRNnigAhlrinp-TAwd-1">
           <mxGeometry x="10" y="30" width="50" height="120" as="geometry" />
